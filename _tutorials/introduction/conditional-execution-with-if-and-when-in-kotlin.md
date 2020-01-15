@@ -34,9 +34,9 @@ if(myString != ""){
 
 ```kotlin
 var result = if(myString != ""){
-    println("Not Empty")
+   "Not Empty"
 }else {
-    println("Starts With A")
+   "Starts With A"
 }
 
 println(result)
